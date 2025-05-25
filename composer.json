@@ -16,9 +16,9 @@
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "intervention/image": "*",
-        "goodby/csv": "*",
-        "stripe/stripe-php": "*"
+        "intervention/image": "^3.11",
+        "goodby/csv": "^1.4",
+        "stripe/stripe-php": "^17.2"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
